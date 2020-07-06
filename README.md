@@ -1,4 +1,4 @@
-# Symfony 4 Crud
+# Symfony 4 CRUD
 
 ### 1) Installation
 
